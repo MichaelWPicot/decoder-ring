@@ -5,6 +5,8 @@
 * [Description](#description)
 * [Questions](#questions)
 
+![image](https://i.imgur.com/HUGgdVI.png)
+
 ## Description
 This project focused on utilizing test driven development to create an encoding/decoding application to allow the user to read encrypted messages and encrypt custom messages of their own..
 
